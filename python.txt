@@ -1,0 +1,4 @@
+Dicas Python:
+
+- Digitando outro print em baixo, o terminal pula uma linha para esse novo print.
+- Para que o print seja passado para uma frase ao lado, é necessario colocar uma vígula.
